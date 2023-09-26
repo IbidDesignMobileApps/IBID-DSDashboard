@@ -1,0 +1,64 @@
+
+:root {
+    --gradientGradientLinear01: linear-gradient(
+          90deg,
+          #ff5f6d 0%,   
+          #ffc371 100%  
+        )
+        ;    
+    --gradientGradientLinear02: linear-gradient(
+          90deg,
+          #16bffd 0%,   
+          #cb3066 100%  
+        )
+        ;    
+    --gradientGradientLinear03: linear-gradient(
+          90deg,
+          #eecda3 0%,   
+          #ef629f 100%  
+        )
+        ;    
+    --gradientGradientLinear04: linear-gradient(
+          90deg,
+          #4ca1af 0%,   
+          #c4e0e5 100%  
+        )
+        ;    
+    --gradientGradientLinear05: linear-gradient(
+          90deg,
+          #f1f2b5 0%,   
+          #135058 100%,   
+          #135058 100%  
+        )
+        ;    
+    --gradientGradientLinear06: linear-gradient(
+          90deg,
+          #ff6e7f 0%,   
+          #bfe9ff 100%  
+        )
+        ;    
+    --gradientGradientLinear07: linear-gradient(
+          90deg,
+          #1d2b64 0%,   
+          #f8cdda 100%  
+        )
+        ;    
+    --gradientGradientLinear08: linear-gradient(
+          90deg,
+          #fc00ff 0%,   
+          #00b6de 100%  
+        )
+        ;    
+    --gradientGradientLinear09: linear-gradient(
+          90deg,
+          #02aab0 0%,   
+          #00cdac 100%  
+        )
+        ;    
+    --gradientGradientLinear10: linear-gradient(
+          90deg,
+          #4568dc 0%,   
+          #b06ab3 100%  
+        )
+        ;    
+}

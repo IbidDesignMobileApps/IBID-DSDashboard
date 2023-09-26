@@ -1,0 +1,14 @@
+
+:root {
+    --shadowDropShadowXsmall: 0 1px 2px 0 rgba(16,24,40,0.05);  
+    --shadowDropShadowSmall: 0 1px 2px -1px rgba(16,24,40,0.1);  
+    --shadowDropShadowMedium: 0 2px 4px -2px rgba(16,24,40,0.1);  
+    --shadowDropShadowLarge: 0 4px 6px -4px rgba(16,24,40,0.1);  
+    --shadowDropShadowXlarge: 0 8px 10px -6px rgba(16,24,40,0.1);  
+    --shadowDropShadowXxlarge: 0 25px 50px -12px rgba(16,24,40,0.25);  
+    --shadowFocusRing4pxPrimary100: 0 0 0 4px rgba(225,225,254,1);  
+    --shadowFocusRing4pxDestructive100: 0 0 0 4px rgba(254,226,226,1);  
+    --shadowFocusRing1pxPrimary500: 0 0 0 1px rgba(4,8,231,1);  
+    --shadowFocusRing4pxSuccess100: 0 0 0 4px rgba(220,252,231,1);  
+    --shadowFocusRing4pxWarning100: 0 0 0 4px rgba(254,243,199,1);  
+}
