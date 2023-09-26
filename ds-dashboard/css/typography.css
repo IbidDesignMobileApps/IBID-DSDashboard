@@ -1,0 +1,1146 @@
+.typographyDisplayMediumLarge 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize11);
+  line-height: var(--measureLineHeightLineHeightLineheights0);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayMediumSmall 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize10);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplaySemiboldLarge 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize11);
+  line-height: var(--measureLineHeightLineHeightLineheights0);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplaySemiboldSmall 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize10);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayBoldLarge 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize11);
+  line-height: var(--measureLineHeightLineHeightLineheights0);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayBoldSmall 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize10);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayExtraboldLarge 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize11);
+  line-height: var(--measureLineHeightLineHeightLineheights0);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayExtraboldSmall 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize10);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1MediumDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize9);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1MediumMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1SemiboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize9);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1SemiboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1BoldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize9);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1BoldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1ExtraboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize9);
+  line-height: var(--measureLineHeightLineHeightLineheights1);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH1ExtraboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2MediumDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2MediumMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2SemiboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2SemiboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2BoldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2BoldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2ExtraboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineHeightLineheights2);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH2ExtraboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3MediumDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3MediumMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3SemiboldDektop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3SemiboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3BoldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3BoldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3ExtraboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineHeightLineheights3);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH3ExtraboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4MediumDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4MediumMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4SemiboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4SemiboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4BoldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4BoldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4ExtraboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineHeightLineheights4);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH4ExtraboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5MediumDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5MediumMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5SemiboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5SemiboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5BoldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5BoldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5ExtraboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineHeightLineheights5);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH5ExtraboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6MediumDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6MediumMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6SemiboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6SemiboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6BoldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6BoldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6ExtraboldDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingH6ExtraboldMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphLargeRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphLargeMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphLargeSemibold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphLargeSpecialUnderline 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphLargeSpecialStrikethrough 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphLargeSpecialItalics 
+ {
+  
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineHeightLineheights6);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphMediumRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphMediumMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphMediumSemibold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphMediumSpecialUnderline 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphMediumSpecialStrikethrough 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphMediumSpecialItalics 
+ {
+  
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphSmallRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphSmallMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphSmallSemibold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphSmallSpecialUnderline 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphSmallSpecialStrikethrough 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphSmallSpecialItalics 
+ {
+  
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphXsmallRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphXsmallMedium 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphXsmallSemibold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphXsmallSpecialUnderline 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphXsmallSpecialStrikethrough 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphXsmallSpecialItalics 
+ {
+  
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphOverlineLarge 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing2);
+  text-indent: 0px;
+  
+}    
+
+.typographyParagraphOverlineSmall 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineHeightLineheights8);
+  letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing2);
+  text-indent: 0px;
+  
+}    
+
